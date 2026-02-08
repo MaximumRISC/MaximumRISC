@@ -15,7 +15,7 @@ I'm a passionate **Programmer and Linux enthusiast** with a focus on **minimal, 
 This repository focuses on my personal dotfiles and Linux setup. Included configurations:
 
 * `fastfetch` → system info
-* `ghostty` → system info
+* `ghostty` → terminal
 * `nvim` → Neovim config
 * `kitty` → terminal
 * `rofi` → launcher
