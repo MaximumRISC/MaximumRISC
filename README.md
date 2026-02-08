@@ -2,20 +2,52 @@
 
 ## About Me 🚀
 
-I'm a passionate **Programer** with experience in **Computers**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Programmer and Linux enthusiast** with a focus on **minimal, reproducible setups**. I love tackling complex problems, learning new skills, and creating efficient and innovative solutions.
 
-- 🌱 Currently learning: **Rust**
-- 🔭 Working on: **My Dotfiles**
-- 🌍 Languages: **Python, C++, Swift**
-- 📫 How to reach me: **santamaria.raul.ignacio@gmail.com**
-- ⚡ Fun fact: **I have a very good memory**
+* 🌱 Currently learning: **Rust**
+* 🔭 Working on: **My Dotfiles**
+* 🌍 Languages: **Python, C++, Swift**
+* 📫 How to reach me: **[santamaria.raul.ignacio@gmail.com](mailto:santamaria.raul.ignacio@gmail.com)**
+* ⚡ Fun fact: **I have a very good memory**
+
+## Projects & Tools 💻
+
+This repository focuses on my personal dotfiles and Linux setup. Included configurations:
+
+* `fastfetch` → system info
+* `nvim` → Neovim config
+* `kitty` → terminal
+* `rofi` → launcher
+* `hypr` → Hyprland (Wayland compositor)
+* `waybar` → status bar
+* `mako` → notifications
+
+---
 
 ## My Skills 🧠
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square\&logo=swift\&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-43A14F?style=flat-square\&logo=neovim\&logoColor=white)
+![Hyprland](https://img.shields.io/badge/-Hyprland-0F0F0F?style=flat-square\&logo=wayland\&logoColor=white)
+![Rofi](https://img.shields.io/badge/-Rofi-4E9A06?style=flat-square\&logo=wayland\&logoColor=white)
+![Kitty](https://img.shields.io/badge/-Kitty-222222?style=flat-square\&logo=linux\&logoColor=white)
+![Waybar](https://img.shields.io/badge/-Waybar-005F73?style=flat-square\&logo=wayland\&logoColor=white)
+![Mako](https://img.shields.io/badge/-Mako-1B1B1B?style=flat-square\&logo=wayland\&logoColor=white)
 
+---
 
+## Goals 🎯
+
+* Build my personal development environment to be fully reproducible
+* Learn and master multiple programming languages
+* Work on hardware/software integration projects
+* Contribute to open-source projects
+* Grow as a software developer and problem solver
+
+---
+
+> "A good environment is not pretty — it is reproducible."
